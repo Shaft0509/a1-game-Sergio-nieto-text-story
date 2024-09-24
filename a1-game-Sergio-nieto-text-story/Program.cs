@@ -14,3 +14,6 @@ devil = "demogorgon";
 yes = "devil kiled";
 no = "caspian spared his life";
 
+Console.WriteLine("Caspian enters the devil's cage and defeats the world´s strongest devil Demogorgon");
+Console.WriteLine("Do you want Caspian to kill the devil?");
+
