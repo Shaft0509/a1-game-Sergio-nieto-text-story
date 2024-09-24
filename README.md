@@ -1,1 +1,3 @@
 # a1-game-Sergio-nieto-text-story
+
+This game is about a hero named Caspian who is fighting the world´s strongest demon called demogorgon, and encounters against a series of choices that will decide the destiny of humanity...
